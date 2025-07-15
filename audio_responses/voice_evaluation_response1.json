@@ -1,0 +1,75 @@
+{
+  "Transcripted_audio": "Hello, my name is sharib. How are you?",
+  "Words": [
+    {
+      "word": "Hello,",
+      "start": 0.8,
+      "end": 1.2,
+      "confidence": 0.99438477
+    },
+    {
+      "word": "my",
+      "start": 1.2,
+      "end": 1.48,
+      "confidence": 0.9995117
+    },
+    {
+      "word": "name",
+      "start": 1.48,
+      "end": 1.64,
+      "confidence": 1
+    },
+    {
+      "word": "is",
+      "start": 1.64,
+      "end": 1.84,
+      "confidence": 0.9975586
+    },
+    {
+      "word": "sharib.",
+      "start": 1.84,
+      "end": 2.44,
+      "confidence": 0.7265625
+    },
+    {
+      "word": "How",
+      "start": 2.44,
+      "end": 2.72,
+      "confidence": 0.9995117
+    },
+    {
+      "word": "are",
+      "start": 2.72,
+      "end": 2.92,
+      "confidence": 1
+    },
+    {
+      "word": "you?",
+      "start": 2.92,
+      "end": 3.2,
+      "confidence": 0.99365234
+    }
+  ],
+  "Audio_duration_in_seconds": 3.2,
+  "Pronunciation_score": 96,
+  "Mispronounced_words": [
+    {
+      "word": "sharib.",
+      "start": 1.84,
+      "end": 2.44,
+      "confidence": 0.7265625
+    }
+  ],
+  "Words_per_minute": 150,
+  "Pace_feedback": "Your speaking pace is appropriate.",
+  "Pause_count": 0,
+  "Pause_durations": [],
+  "Long_pauses_more_than_a_second": [],
+  "Total_pause_duration_in_seconds": 0,
+  "Pause_feedback": "You maintained good fluency with few or no pauses.",
+  "Filler_words_used": {},
+  "Total_filler_word_count": 0,
+  "Filler_word_percentage": 0,
+  "Feedback_of_using_filler_words": "Excellent job! Your speech is clear and concise with minimal reliance on filler words. You’re maintaining strong verbal control.",
+  "Final_feedback": "You spoke at a good pace. Focus on pronouncing sharib..  Your fluency was good with few or no pauses."
+}

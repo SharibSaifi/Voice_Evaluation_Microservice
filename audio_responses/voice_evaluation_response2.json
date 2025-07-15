@@ -1,0 +1,155 @@
+{
+  "Transcripted_audio": "Hello everyone. How are you? My name is Sharib. I am from Delhi Technological University. Thank you from my side. Goodbye.",
+  "Words": [
+    {
+      "word": "Hello",
+      "start": 1.04,
+      "end": 1.36,
+      "confidence": 0.96606445
+    },
+    {
+      "word": "everyone.",
+      "start": 1.36,
+      "end": 1.76,
+      "confidence": 0.9980469
+    },
+    {
+      "word": "How",
+      "start": 2.08,
+      "end": 2.4,
+      "confidence": 0.99902344
+    },
+    {
+      "word": "are",
+      "start": 2.4,
+      "end": 2.6,
+      "confidence": 1
+    },
+    {
+      "word": "you?",
+      "start": 2.6,
+      "end": 2.84,
+      "confidence": 0.99560547
+    },
+    {
+      "word": "My",
+      "start": 2.84,
+      "end": 3.12,
+      "confidence": 0.9995117
+    },
+    {
+      "word": "name",
+      "start": 3.12,
+      "end": 3.32,
+      "confidence": 0.9995117
+    },
+    {
+      "word": "is",
+      "start": 3.32,
+      "end": 3.52,
+      "confidence": 0.9926758
+    },
+    {
+      "word": "Sharib.",
+      "start": 3.52,
+      "end": 4.24,
+      "confidence": 0.5419922
+    },
+    {
+      "word": "I",
+      "start": 4.4,
+      "end": 4.68,
+      "confidence": 0.9980469
+    },
+    {
+      "word": "am",
+      "start": 4.68,
+      "end": 4.96,
+      "confidence": 0.9916992
+    },
+    {
+      "word": "from",
+      "start": 5.28,
+      "end": 5.64,
+      "confidence": 0.9995117
+    },
+    {
+      "word": "Delhi",
+      "start": 5.64,
+      "end": 6.12,
+      "confidence": 0.9777832
+    },
+    {
+      "word": "Technological",
+      "start": 6.12,
+      "end": 6.88,
+      "confidence": 0.99853516
+    },
+    {
+      "word": "University.",
+      "start": 6.88,
+      "end": 7.28,
+      "confidence": 0.9995117
+    },
+    {
+      "word": "Thank",
+      "start": 7.92,
+      "end": 8.32,
+      "confidence": 0.96118164
+    },
+    {
+      "word": "you",
+      "start": 8.32,
+      "end": 8.64,
+      "confidence": 0.9980469
+    },
+    {
+      "word": "from",
+      "start": 8.64,
+      "end": 9,
+      "confidence": 0.99853516
+    },
+    {
+      "word": "my",
+      "start": 9,
+      "end": 9.32,
+      "confidence": 0.99902344
+    },
+    {
+      "word": "side.",
+      "start": 9.32,
+      "end": 9.68,
+      "confidence": 0.99902344
+    },
+    {
+      "word": "Goodbye.",
+      "start": 10,
+      "end": 10.72,
+      "confidence": 0.98909503
+    }
+  ],
+  "Audio_duration_in_seconds": 10.72,
+  "Pronunciation_score": 97,
+  "Mispronounced_words": [
+    {
+      "word": "Sharib.",
+      "start": 3.52,
+      "end": 4.24,
+      "confidence": 0.5419922
+    }
+  ],
+  "Words_per_minute": 118,
+  "Pace_feedback": "Your speaking pace is appropriate.",
+  "Pause_count": 1,
+  "Pause_durations": [
+    0.64
+  ],
+  "Long_pauses_more_than_a_second": [],
+  "Total_pause_duration_in_seconds": 0.64,
+  "Pause_feedback": "You maintained good fluency with few or no pauses.",
+  "Filler_words_used": {},
+  "Total_filler_word_count": 0,
+  "Filler_word_percentage": 0,
+  "Feedback_of_using_filler_words": "Excellent job! Your speech is clear and concise with minimal reliance on filler words. You’re maintaining strong verbal control.",
+  "Final_feedback": "You spoke at a good pace. Focus on pronouncing Sharib..  Your fluency was good with few or no pauses."
+}
